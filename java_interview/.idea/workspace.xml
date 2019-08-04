@@ -1,7 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84838263-a316-471b-8c71-5d3a7ae6bcb0" name="Default" comment="" />
+    <list default="true" id="84838263-a316-471b-8c71-5d3a7ae6bcb0" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../StuManager/.idea/artifacts/StuManager_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/StuManager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/Score.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/Stulogin.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/Upsuccess.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/WEB-INF/classes/cn/xatu/dao/IAdminDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/WEB-INF/classes/cn/xatu/dao/StuDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/WEB-INF/classes/cn/xatu/dao/impl/AdminDaoimpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/WEB-INF/classes/cn/xatu/dao/impl/StuDaoimpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/WEB-INF/classes/cn/xatu/domain/LimitPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/WEB-INF/classes/cn/xatu/domain/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/WEB-INF/classes/cn/xatu/service/IAdminService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/WEB-INF/classes/cn/xatu/service/IStuService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/WEB-INF/classes/cn/xatu/service/impl/AdimnServiceimpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/WEB-INF/classes/cn/xatu/service/impl/StuServiceimpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/WEB-INF/classes/cn/xatu/servlet/AddServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/WEB-INF/classes/cn/xatu/servlet/DelateServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/WEB-INF/classes/cn/xatu/servlet/FindScoreServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/WEB-INF/classes/cn/xatu/servlet/FindServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/WEB-INF/classes/cn/xatu/servlet/FindStuByPageServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/WEB-INF/classes/cn/xatu/servlet/QueryAllServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/WEB-INF/classes/cn/xatu/servlet/QueryScoreServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/WEB-INF/classes/cn/xatu/servlet/StuServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/WEB-INF/classes/cn/xatu/servlet/UpdateScoreServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/WEB-INF/classes/cn/xatu/servlet/UpdateServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/WEB-INF/classes/cn/xatu/util/DBUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/WEB-INF/lib/commons-fileupload-1.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/WEB-INF/lib/commons-io-2.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/WEB-INF/lib/jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.46.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/WEB-INF/lib/standard.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/add.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/adminResult.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/stuResult.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/update.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/updateScore.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/production/StuManager/cn/xatu/dao/IAdminDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/production/StuManager/cn/xatu/dao/StuDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/production/StuManager/cn/xatu/dao/impl/AdminDaoimpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/production/StuManager/cn/xatu/dao/impl/StuDaoimpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/production/StuManager/cn/xatu/domain/LimitPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/production/StuManager/cn/xatu/domain/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/production/StuManager/cn/xatu/service/IAdminService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/production/StuManager/cn/xatu/service/IStuService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/production/StuManager/cn/xatu/service/impl/AdimnServiceimpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/production/StuManager/cn/xatu/service/impl/StuServiceimpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/production/StuManager/cn/xatu/servlet/AddServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/production/StuManager/cn/xatu/servlet/DelateServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/production/StuManager/cn/xatu/servlet/FindScoreServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/production/StuManager/cn/xatu/servlet/FindServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/production/StuManager/cn/xatu/servlet/FindStuByPageServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/production/StuManager/cn/xatu/servlet/QueryAllServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/production/StuManager/cn/xatu/servlet/QueryScoreServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/production/StuManager/cn/xatu/servlet/StuServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/production/StuManager/cn/xatu/servlet/UpdateScoreServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/production/StuManager/cn/xatu/servlet/UpdateServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/production/StuManager/cn/xatu/util/DBUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/src/cn/xatu/dao/IAdminDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/src/cn/xatu/dao/StuDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/src/cn/xatu/dao/impl/AdminDaoimpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/src/cn/xatu/dao/impl/StuDaoimpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/src/cn/xatu/domain/LimitPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/src/cn/xatu/domain/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/src/cn/xatu/service/IAdminService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/src/cn/xatu/service/IStuService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/src/cn/xatu/service/impl/AdimnServiceimpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/src/cn/xatu/service/impl/StuServiceimpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/src/cn/xatu/servlet/AddServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/src/cn/xatu/servlet/DelateServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/src/cn/xatu/servlet/FindScoreServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/src/cn/xatu/servlet/FindServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/src/cn/xatu/servlet/FindStuByPageServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/src/cn/xatu/servlet/QueryAllServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/src/cn/xatu/servlet/QueryScoreServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/src/cn/xatu/servlet/StuServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/src/cn/xatu/servlet/UpdateScoreServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/src/cn/xatu/servlet/UpdateServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/src/cn/xatu/util/DBUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/web/Score.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/web/Stulogin.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/web/Upsuccess.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/web/WEB-INF/lib/commons-fileupload-1.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/web/WEB-INF/lib/commons-io-2.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/web/WEB-INF/lib/jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/web/WEB-INF/lib/mysql-connector-java-5.1.46.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/web/WEB-INF/lib/standard.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/web/add.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/web/adminResult.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/web/stuResult.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/web/update.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/web/updateScore.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/indi/example1/ParameterPassing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algorithm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../algorithm/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,11 +143,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_03_ClassInit.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_03_ClassInit.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/cn/indi/example1/_03_ClassInit.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="779">
-              <caret line="43" column="19" lean-forward="true" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
+              <caret line="43" column="19" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ParameterPassing.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/indi/example1/ParameterPassing.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="23" column="15" lean-forward="true" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -67,6 +181,7 @@
         <option value="$PROJECT_DIR$/src/main/test/cn/indi/TestSingleton.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/indi/example1/_02_Singleton.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/indi/example1/_03_ClassInit.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/indi/example1/ParameterPassing.java" />
       </list>
     </option>
   </component>
@@ -96,8 +211,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -162,37 +277,13 @@
               <item name="java_interview" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_interview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_interview" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_interview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_interview" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-              <item name="indi" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_interview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_interview" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -218,7 +309,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._03_ClassInit">
+  <component name="RunManager" selected="Application.ParameterPassing">
+    <configuration name="ParameterPassing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.indi.example1.ParameterPassing" />
+      <module name="java_interview" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.indi.example1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="_03_ClassInit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.indi.example1._03_ClassInit" />
       <module name="java_interview" />
@@ -232,29 +334,6 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="TestSingleton.testSingleton3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java_interview" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.indi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="cn.indi" />
-      <option name="MAIN_CLASS_NAME" value="cn.indi.TestSingleton" />
-      <option name="METHOD_NAME" value="testSingleton3" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
     </configuration>
     <configuration name="TestSingleton.testSingleton4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java_interview" />
@@ -364,19 +443,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.TestSingleton.testSingleton3" />
       <item itemvalue="JUnit.TestSingleton.testSingleton4" />
       <item itemvalue="JUnit.TestSingleton.testSingleton5" />
       <item itemvalue="JUnit.TestSingleton.testSingleton6" />
       <item itemvalue="Application._03_ClassInit" />
+      <item itemvalue="Application.ParameterPassing" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ParameterPassing" />
         <item itemvalue="Application._03_ClassInit" />
         <item itemvalue="JUnit.TestSingleton.testSingleton6" />
         <item itemvalue="JUnit.TestSingleton.testSingleton4" />
         <item itemvalue="JUnit.TestSingleton.testSingleton5" />
-        <item itemvalue="JUnit.TestSingleton.testSingleton3" />
       </list>
     </recent_temporary>
   </component>
@@ -394,6 +473,7 @@
       <workItem from="1564553010662" duration="598000" />
       <workItem from="1564664910749" duration="3291000" />
       <workItem from="1564817698569" duration="894000" />
+      <workItem from="1564848562843" duration="1739000" />
     </task>
     <task id="LOCAL-00001" summary="Java高频面试题">
       <created>1564818355974</created>
@@ -438,11 +518,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11982000" />
+    <option name="totallyTimeSpent" value="13721000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -455,11 +534,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.329806" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32922536" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32804233" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23443815" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2384802" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -518,6 +597,35 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/indi/example1/_02_Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2318">
+          <caret line="129" column="36" selection-start-line="129" selection-start-column="36" selection-end-line="129" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1147#1148#0" expanded="true" />
+            <element signature="e#1187#1188#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/cn/indi/TestSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1273">
+          <caret line="71" column="39" selection-start-line="71" selection-start-column="39" selection-end-line="71" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/indi/example1/_03_ClassInit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="43" column="19" lean-forward="true" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/indi/example1/_02_Singleton.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2451">
@@ -630,7 +738,14 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/indi/example1/_03_ClassInit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="779">
-          <caret line="43" column="19" lean-forward="true" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
+          <caret line="43" column="19" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/indi/example1/ParameterPassing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="23" column="15" lean-forward="true" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
         </state>
       </provider>
     </entry>
