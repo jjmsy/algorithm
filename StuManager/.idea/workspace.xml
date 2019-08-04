@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="StuManager:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="61dac0ca-3410-4c1a-b5ed-977d506dbd58" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StuManager.iml" beforeDir="false" afterPath="$PROJECT_DIR$/StuManager.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/xatu/dao/impl/AdminDaoimpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/xatu/dao/impl/AdminDaoimpl.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="AdminDaoimpl.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/cn/xatu/dao/impl/AdminDaoimpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="124" column="42" lean-forward="true" selection-start-line="124" selection-start-column="42" selection-end-line="124" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/cn/xatu/dao/impl/AdminDaoimpl.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/web/adminResult.jsp" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" root2="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/cn/xatu/service/impl/IStuServiceimpl.java" />
+        <option value="$PROJECT_DIR$/src/cn/xatu/service/impl/StuServiceimpl.java" />
+        <option value="$PROJECT_DIR$/src/cn/xatu/domain/Page.java" />
+        <option value="$PROJECT_DIR$/src/cn/xatu/service/IStuService.java" />
+        <option value="$PROJECT_DIR$/src/cn/xatu/service/AdimService.java" />
+        <option value="$PROJECT_DIR$/src/cn/xatu/dao/impl/IAdminDao.java" />
+        <option value="$PROJECT_DIR$/src/cn/xatu/dao/StuDao.java" />
+        <option value="$PROJECT_DIR$/src/cn/xatu/servlet/UpoadScoreServlet.java" />
+        <option value="$PROJECT_DIR$/src/cn/xatu/domain/LimitPage.java" />
+        <option value="$PROJECT_DIR$/src/cn/xatu/servlet/StuServlet.java" />
+        <option value="$PROJECT_DIR$/src/cn/xatu/servlet/FindServlet.java" />
+        <option value="$PROJECT_DIR$/src/cn/xatu/servlet/QueryAllServlet.java" />
+        <option value="$PROJECT_DIR$/src/cn/xatu/util/DBUtil.java" />
+        <option value="$PROJECT_DIR$/web/update.jsp" />
+        <option value="$PROJECT_DIR$/src/cn/xatu/servlet/AddServlet.java" />
+        <option value="$PROJECT_DIR$/src/cn/xatu/dao/IAdminDao.java" />
+        <option value="$PROJECT_DIR$/src/cn/xatu/service/IAdminService.java" />
+        <option value="$PROJECT_DIR$/src/cn/xatu/service/impl/AdimnServiceimpl.java" />
+        <option value="$PROJECT_DIR$/src/cn/xatu/servlet/FindScoreServlet.java" />
+        <option value="$PROJECT_DIR$/src/cn/xatu/dao/impl/StuDaoimpl.java" />
+        <option value="$PROJECT_DIR$/src/cn/xatu/servlet/QueryScoreServlet.java" />
+        <option value="$PROJECT_DIR$/src/cn/xatu/servlet/UpdateServlet.java" />
+        <option value="$PROJECT_DIR$/web/Upsuccess.jsp" />
+        <option value="$PROJECT_DIR$/src/cn/xatu/domain/Student.java" />
+        <option value="$PROJECT_DIR$/src/cn/xatu/servlet/FindStuByPageServlet.java" />
+        <option value="$PROJECT_DIR$/web/add.jsp" />
+        <option value="$PROJECT_DIR$/src/cn/xatu/servlet/DelateServlet.java" />
+        <option value="$PROJECT_DIR$/web/index.jsp" />
+        <option value="$PROJECT_DIR$/web/Stulogin.jsp" />
+        <option value="$PROJECT_DIR$/web/stuResult.jsp" />
+        <option value="$PROJECT_DIR$/web/Score.jsp" />
+        <option value="$PROJECT_DIR$/web/updateScore.jsp" />
+        <option value="$PROJECT_DIR$/web/adminResult.jsp" />
+        <option value="$PROJECT_DIR$/src/cn/xatu/servlet/UpdateScoreServlet.java" />
+        <option value="$PROJECT_DIR$/src/cn/xatu/dao/impl/AdminDaoimpl.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="9" />
+    <option name="y" value="19" />
+    <option name="width" value="1347" />
+    <option name="height" value="689" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <showMembers ProjectPane="true" />
+      <hideEmptyPackages ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="StuManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StuManager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StuManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StuManager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StuManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StuManager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StuManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StuManager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="xatu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StuManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StuManager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="xatu" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StuManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StuManager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="xatu" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.25942856" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.xatu.util" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\StuManager\web\WEB-INF\lib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="Tomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.22" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATING_POLICY" value="update-resources" />
+      <deployment>
+        <artifact name="StuManager:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/StuManager" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_5_38_StuManager" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="56130" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="StuManager:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61dac0ca-3410-4c1a-b5ed-977d506dbd58" name="Default" comment="" />
+      <created>1556008809005</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556008809005</updated>
+      <workItem from="1556008812710" duration="12094000" />
+      <workItem from="1556088671113" duration="15765000" />
+      <workItem from="1556201334364" duration="5713000" />
+      <workItem from="1556327387263" duration="29510000" />
+      <workItem from="1556440363186" duration="809000" />
+      <workItem from="1556863143344" duration="2551000" />
+      <workItem from="1556875710412" duration="6886000" />
+      <workItem from="1556892746158" duration="3593000" />
+      <workItem from="1557152441646" duration="3238000" />
+      <workItem from="1557376912283" duration="12000" />
+      <workItem from="1557745807902" duration="2784000" />
+      <workItem from="1557807713601" duration="39000" />
+      <workItem from="1557827374937" duration="30000" />
+      <workItem from="1557925747236" duration="733000" />
+      <workItem from="1558003826974" duration="2086000" />
+      <workItem from="1558015197513" duration="818000" />
+      <workItem from="1558017196300" duration="883000" />
+      <workItem from="1558069175189" duration="954000" />
+      <workItem from="1558079634765" duration="2093000" />
+      <workItem from="1563002347839" duration="253000" />
+      <workItem from="1563003579175" duration="433000" />
+      <workItem from="1564822495109" duration="1150000" />
+    </task>
+    <task id="LOCAL-00001" summary="JSP+Servlet开发的学生管理系统">
+      <created>1564822731847</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1564822731847</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="92427000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" weight="0.329806" />
+      <window_info anchor="bottom" id="Application Servers" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39933994" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32804233" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.41798943" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49056605" visible="true" weight="0.23039612" />
+      <window_info id="Web" order="6" sideWeight="0.509434" side_tool="true" weight="0.21860817" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32838285" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="JSP+Servlet开发的学生管理系统" />
+    <option name="LAST_COMMIT_MESSAGE" value="JSP+Servlet开发的学生管理系统" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/web/Stulogin.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/cn/xatu/service/IStuService.java" />
+    <entry file="file://$PROJECT_DIR$/web/update.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/cn/xatu/util/DBUtil.java" />
+    <entry file="file://$PROJECT_DIR$/web/stuResult.jsp" />
+    <entry file="file://$PROJECT_DIR$/web/add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/xatu/servlet/AddServlet.java" />
+    <entry file="file://$PROJECT_DIR$/src/cn/xatu/servlet/DelateServlet.java" />
+    <entry file="file://$PROJECT_DIR$/web/update.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/cn/xatu/service/IAdminService.java" />
+    <entry file="file://$PROJECT_DIR$/src/cn/xatu/service/impl/AdimnServiceimpl.java" />
+    <entry file="file://$PROJECT_DIR$/src/cn/xatu/dao/impl/AdminDaoimpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/adminResult.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/xatu/util/DBUtil.java" />
+    <entry file="file://$PROJECT_DIR$/src/cn/xatu/domain/Student.java" />
+    <entry file="file://$PROJECT_DIR$/src/cn/xatu/dao/StuDao.java" />
+    <entry file="file://$PROJECT_DIR$/src/cn/xatu/dao/impl/StuDaoimpl.java" />
+    <entry file="file://$PROJECT_DIR$/src/cn/xatu/service/IStuService.java" />
+    <entry file="file://$PROJECT_DIR$/src/cn/xatu/servlet/QueryAllServlet.java" />
+    <entry file="file://$PROJECT_DIR$/web/Stulogin.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/cn/xatu/dao/impl/IAdminDao.java" />
+    <entry file="file://$PROJECT_DIR$/src/cn/xatu/dao/StuDao.java" />
+    <entry file="file://$PROJECT_DIR$/src/cn/xatu/service/impl/StuServiceimpl.java" />
+    <entry file="file://$PROJECT_DIR$/src/cn/xatu/service/IStuService.java" />
+    <entry file="file://$PROJECT_DIR$/src/cn/xatu/dao/IAdminDao.java" />
+    <entry file="file://$PROJECT_DIR$/src/cn/xatu/service/IAdminService.java" />
+    <entry file="file://$PROJECT_DIR$/src/cn/xatu/dao/impl/StuDaoimpl.java" />
+    <entry file="file://$PROJECT_DIR$/src/cn/xatu/servlet/UpdateServlet.java" />
+    <entry file="file://$PROJECT_DIR$/src/cn/xatu/domain/Student.java" />
+    <entry file="file://$PROJECT_DIR$/src/cn/xatu/servlet/AddServlet.java" />
+    <entry file="file://$PROJECT_DIR$/src/cn/xatu/servlet/QueryAllServlet.java" />
+    <entry file="file://$PROJECT_DIR$/web/stuResult.jsp" />
+    <entry file="file://$PROJECT_DIR$/web/Stulogin.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/cn/xatu/servlet/StuServlet.java" />
+    <entry file="file://$PROJECT_DIR$/web/Score.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/cn/xatu/servlet/FindScoreServlet.java" />
+    <entry file="file://$PROJECT_DIR$/src/cn/xatu/servlet/UpdateScoreServlet.java" />
+    <entry file="file://$PROJECT_DIR$/web/updateScore.jsp" />
+    <entry file="file://$PROJECT_DIR$/web/update.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/cn/xatu/servlet/DelateServlet.java" />
+    <entry file="file://$PROJECT_DIR$/src/cn/xatu/servlet/FindServlet.java" />
+    <entry file="file://$PROJECT_DIR$/web/add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/cn/xatu/domain/LimitPage.java" />
+    <entry file="file://$PROJECT_DIR$/web/Upsuccess.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/cn/xatu/servlet/FindStuByPageServlet.java" />
+    <entry file="file://$PROJECT_DIR$/src/cn/xatu/service/impl/AdimnServiceimpl.java" />
+    <entry file="file://$PROJECT_DIR$/src/cn/xatu/util/DBUtil.java" />
+    <entry file="file://$PROJECT_DIR$/web/adminResult.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2090">
+          <caret line="110" selection-start-line="110" selection-end-line="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/xatu/servlet/QueryScoreServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="22" column="52" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/xatu/dao/impl/AdminDaoimpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="124" column="42" lean-forward="true" selection-start-line="124" selection-start-column="42" selection-end-line="124" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>StuManager:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.25942856" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.25942856" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.25942856" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.25942856" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>StuManager</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.25942856" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.25942856" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

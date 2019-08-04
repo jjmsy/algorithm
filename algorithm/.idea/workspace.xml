@@ -1,7 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85203774-68b3-472e-85db-b7b9d68f9420" name="Default" comment="算法知识" />
+    <list default="true" id="85203774-68b3-472e-85db-b7b9d68f9420" name="Default" comment="算法知识">
+      <change afterPath="$PROJECT_DIR$/../StuManager/.idea/artifacts/StuManager_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/StuManager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/Score.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/Stulogin.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/Upsuccess.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/WEB-INF/classes/cn/xatu/dao/IAdminDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/WEB-INF/classes/cn/xatu/dao/StuDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/WEB-INF/classes/cn/xatu/dao/impl/AdminDaoimpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/WEB-INF/classes/cn/xatu/dao/impl/StuDaoimpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/WEB-INF/classes/cn/xatu/domain/LimitPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/WEB-INF/classes/cn/xatu/domain/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/WEB-INF/classes/cn/xatu/service/IAdminService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/WEB-INF/classes/cn/xatu/service/IStuService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/WEB-INF/classes/cn/xatu/service/impl/AdimnServiceimpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/WEB-INF/classes/cn/xatu/service/impl/StuServiceimpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/WEB-INF/classes/cn/xatu/servlet/AddServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/WEB-INF/classes/cn/xatu/servlet/DelateServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/WEB-INF/classes/cn/xatu/servlet/FindScoreServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/WEB-INF/classes/cn/xatu/servlet/FindServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/WEB-INF/classes/cn/xatu/servlet/FindStuByPageServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/WEB-INF/classes/cn/xatu/servlet/QueryAllServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/WEB-INF/classes/cn/xatu/servlet/QueryScoreServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/WEB-INF/classes/cn/xatu/servlet/StuServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/WEB-INF/classes/cn/xatu/servlet/UpdateScoreServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/WEB-INF/classes/cn/xatu/servlet/UpdateServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/WEB-INF/classes/cn/xatu/util/DBUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/WEB-INF/lib/commons-fileupload-1.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/WEB-INF/lib/commons-io-2.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/WEB-INF/lib/jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.46.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/WEB-INF/lib/standard.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/add.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/adminResult.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/stuResult.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/update.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/artifacts/StuManager_war_exploded/updateScore.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/production/StuManager/cn/xatu/dao/IAdminDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/production/StuManager/cn/xatu/dao/StuDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/production/StuManager/cn/xatu/dao/impl/AdminDaoimpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/production/StuManager/cn/xatu/dao/impl/StuDaoimpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/production/StuManager/cn/xatu/domain/LimitPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/production/StuManager/cn/xatu/domain/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/production/StuManager/cn/xatu/service/IAdminService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/production/StuManager/cn/xatu/service/IStuService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/production/StuManager/cn/xatu/service/impl/AdimnServiceimpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/production/StuManager/cn/xatu/service/impl/StuServiceimpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/production/StuManager/cn/xatu/servlet/AddServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/production/StuManager/cn/xatu/servlet/DelateServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/production/StuManager/cn/xatu/servlet/FindScoreServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/production/StuManager/cn/xatu/servlet/FindServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/production/StuManager/cn/xatu/servlet/FindStuByPageServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/production/StuManager/cn/xatu/servlet/QueryAllServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/production/StuManager/cn/xatu/servlet/QueryScoreServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/production/StuManager/cn/xatu/servlet/StuServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/production/StuManager/cn/xatu/servlet/UpdateScoreServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/production/StuManager/cn/xatu/servlet/UpdateServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/out/production/StuManager/cn/xatu/util/DBUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/src/cn/xatu/dao/IAdminDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/src/cn/xatu/dao/StuDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/src/cn/xatu/dao/impl/AdminDaoimpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/src/cn/xatu/dao/impl/StuDaoimpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/src/cn/xatu/domain/LimitPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/src/cn/xatu/domain/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/src/cn/xatu/service/IAdminService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/src/cn/xatu/service/IStuService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/src/cn/xatu/service/impl/AdimnServiceimpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/src/cn/xatu/service/impl/StuServiceimpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/src/cn/xatu/servlet/AddServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/src/cn/xatu/servlet/DelateServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/src/cn/xatu/servlet/FindScoreServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/src/cn/xatu/servlet/FindServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/src/cn/xatu/servlet/FindStuByPageServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/src/cn/xatu/servlet/QueryAllServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/src/cn/xatu/servlet/QueryScoreServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/src/cn/xatu/servlet/StuServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/src/cn/xatu/servlet/UpdateScoreServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/src/cn/xatu/servlet/UpdateServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/src/cn/xatu/util/DBUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/web/Score.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/web/Stulogin.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/web/Upsuccess.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/web/WEB-INF/lib/commons-fileupload-1.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/web/WEB-INF/lib/commons-io-2.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/web/WEB-INF/lib/jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/web/WEB-INF/lib/mysql-connector-java-5.1.46.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/web/WEB-INF/lib/standard.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/web/add.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/web/adminResult.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/web/stuResult.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/web/update.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StuManager/web/updateScore.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/algorithm_ard/target/" />
@@ -27,7 +131,17 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="BobbleSort.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/day1/BobbleSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="104" column="1" lean-forward="true" selection-start-line="104" selection-start-column="1" selection-end-line="104" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -135,10 +249,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
-    <option name="width" value="1346" />
-    <option name="height" value="688" />
+    <option name="x" value="9" />
+    <option name="y" value="19" />
+    <option name="width" value="1347" />
+    <option name="height" value="689" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -146,7 +260,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -157,64 +270,27 @@
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm_ard" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm_ard" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm_ard" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm_ard" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm_ard" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm_ard" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-              <item name="indi" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm_ard" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-              <item name="indi" type="462c0819:PsiDirectoryNode" />
-              <item name="hard4" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -414,6 +490,7 @@
       <workItem from="1563174798491" duration="137000" />
       <workItem from="1563261107611" duration="5648000" />
       <workItem from="1563363240372" duration="5009000" />
+      <workItem from="1564848155567" duration="405000" />
     </task>
     <task id="LOCAL-00001" summary="算法知识">
       <created>1564819258688</created>
@@ -458,60 +535,40 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="238197000" />
+    <option name="totallyTimeSpent" value="238602000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32956812" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.329806" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32962447" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26919967" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info id="Designer" order="3" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32954547" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2647504" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.25324675" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.2353896" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Database" order="6" weight="0.32980332" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50075644" side_tool="true" weight="0.3068182" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32980332" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.25324675" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32954547" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Designer" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2392886" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32980332" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2353896" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32954547" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32954547" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32954547" />
-      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32980332" />
-      <window_info id="Favorites" order="5" side_tool="true" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -556,13 +613,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/day3/Code_Comparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-594">
-          <caret line="46" column="37" selection-start-line="46" selection-start-column="37" selection-end-line="46" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://F:/Java/2018牛客算法第四期（初级&amp;进阶）完整版本/牛客网 算法进阶班第4期课程（已完结）/课件 &amp; 代码/新进阶课第3、4节代码/advanced_class_03/AbstractBinarySearchTree.java" />
     <entry file="file://$PROJECT_DIR$/algorithm_ard/src/main/java/cn/indi/hard4/AVLTree.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -848,9 +898,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -886,6 +933,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/day1/BobbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="104" column="1" lean-forward="true" selection-start-line="104" selection-start-column="1" selection-end-line="104" selection-end-column="1" />
         </state>
       </provider>
     </entry>
